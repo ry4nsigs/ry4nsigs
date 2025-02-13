@@ -1,11 +1,12 @@
-Hello 👋 I'm Ryan and I'm a Scientist-Turned-Data Analyst
-=======================================================
-I started off as a cognitive biologist specializing in primate behavior, but have recently pivoted my career to focus more on data analysis--that was always the part of my scientific work that most excited me. I have a strong foundation in Python and R and know how to back up my conclusions with statistical analyses and create flashy data visualizations to present them.  
+Hello 👋 I'm Ryan
+==================
+I'm a data analyst with a background in cognitive biology
+------------------
 - 👀 I’m interested in using data-driven solutions to answer big questions.
 - 🌍  I'm based in Vienna, Austria
 - 🎓 Certifications | Data Analysis with Python, Scientific Computing with Python
 - 🧠  I'm currently learning Database Management with PostgreSQL
-- ⚡ Fun fact: During my former life as a biologist, I spent my days following around monkeys in the rainforest and on the savannah to collect data for my projects
+- :monkey_face: Fun fact: During my former life as a biologist, I spent my days following around monkeys in the rainforest and on the savannah to collect data for my projects
 - 📫 Reach out to me on <a href="https://www.linkedin.com/in/ryan-sigmundson-6847a854" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture>  </a>if you're interested in working together
 ### Skills 
 <p align="left">
