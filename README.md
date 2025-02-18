@@ -2,7 +2,7 @@ Hello 👋 I'm Ryan
 ==================
 I'm a data analyst from Canada 🇨🇦 with a background in cognitive biology 🧠
 ------------------
-- 👀 I’m interested in using data-driven solutions to answer big questions.
+- 👀 I’m interested in using data-driven solutions to answer big questions
 - 🌍  I'm based in Vienna, Austria 🇦🇹
 - 🎓 Certifications | Data Analysis with Python, Scientific Computing with Python
 - 📚 I'm currently learning Database Management with PostgreSQL
