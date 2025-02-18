@@ -1,11 +1,11 @@
 Hello 👋 I'm Ryan
 ==================
-I'm a data analyst with a background in cognitive biology
+I'm a data analyst from Canada 🇨🇦 with a background in cognitive biology 🧠
 ------------------
 - 👀 I’m interested in using data-driven solutions to answer big questions.
-- 🌍  I'm based in Vienna, Austria
+- 🌍  I'm based in Vienna, Austria 🇦🇹
 - 🎓 Certifications | Data Analysis with Python, Scientific Computing with Python
-- 🧠  I'm currently learning Database Management with PostgreSQL
+- 📚 I'm currently learning Database Management with PostgreSQL
 - :monkey_face: Fun fact: During my former life as a biologist, I spent my days following around monkeys in the rainforest and on the savannah to collect data for my projects
 - 📫 Reach out to me on <a href="https://www.linkedin.com/in/ryan-sigmundson-6847a854" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture>  </a>if you're interested in working together
 ### Skills 
