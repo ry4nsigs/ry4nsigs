@@ -15,6 +15,7 @@ I'm a data analyst from Canada 🇨🇦 with a background in cognitive biology �
 
 
 ### Some of my scientific publications on the subject of primate behavior
+[Vocal Sequence Diversity and Length Remain Stable across Ontogeny in a Catarrhine Monkey](https://www.nature.com/articles/s42003-025-07922-2)
 [Exploring the Cognitive Capacities of Japanese Macaques in a Cooperation Game](https://www.mdpi.com/2076-2615/11/6/1497)
 
 ### A selection of some blog posts I've written on the subject of AI
